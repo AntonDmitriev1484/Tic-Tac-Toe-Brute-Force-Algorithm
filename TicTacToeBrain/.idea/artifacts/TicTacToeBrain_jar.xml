@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TicTacToeBrain:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TicTacToeBrain_jar</output-path>
+    <root id="archive" name="TicTacToeBrain.jar">
+      <element id="module-output" name="TicTacToeBrain" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../stdlib.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
